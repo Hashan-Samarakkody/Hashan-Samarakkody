@@ -65,13 +65,13 @@
 <h3 align="center">Design Tools:</h3>
 <p align="center">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://www.draw.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Diagrams.net_Logo.svg/512px-Diagrams.net_Logo.svg.png" alt="drawio" width="40" height="40"/> </a>
+
 </p>
 
 <h3 align="center">Project Management Tools:</h3>
 <p align="center">
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/> </a>
-  <a href="https://monday.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNXXpkSJHzoiwup_zNh09cWj-Zq_boVw5tfg&s" alt="monday.com" width="40" height="40"/> </a>
+  
 </p>
 
 ---
