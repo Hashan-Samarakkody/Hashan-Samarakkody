@@ -65,13 +65,13 @@
 <h3 align="center">Design Tools:</h3>
 <p align="center">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://www.draw.io/" target="_blank" rel="noreferrer"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAgVBMVEXwhwXfbAz////eZgDwgwDssZXeaADeYwDwhQDgbgvvfgDvgAD1sXrttZjnl2zdYADvu6Hzn1X63cb23dL+9/LsgQf56eLcWwDrqYfkdAr00sL0rXTwihz0p2fynEzxjSfjgEL51r32u47jg0nyyLT3wpvhdi3mkWLkiFPfbxnpnnj0Pw/KAAABo0lEQVRIie2Xb3+CIBDHIQhYVmrz36xt1dqyvf8XuNMVCmiefLY92u+Ren39HccBRpJYkclScUJiPp0jhMfEw6/x9MN+Xop3NCErTrZLre0OXT7+PDO0xZJ8ZinFcerFBtcBDowdkKE8exwFxZC9IEVMSj+IIAdA6g2OkoPgGNkzHVdwhFSvNri/gQ/3ycXB5B5DSnFkcISfJxkogYu5pBRJNsvjLQ/DfF+PkFEsuQCjsskvPIF11/EuGbyDD/0uiIDLCEmqXWdgrICbD2GQT0OJbiA9XcgwM8p6h+T1/J+1h6jqW4YgF5ZFWHYTGCb50RqUuMCDlRwjlXLKKOfw6CIssnUKGtXtluQGyHJIvoR2AEmna4P4sGkEb8/KiLUGLCqzumEblWtpgnxp9nWmPWVmRgpmgHWT9cUp+7QC1wJr0F6C0Q1c2RH5D/4aSP8c1KlajaU3b3G2AlloONrnRdluHSczUlnnCE+LeauquwNUnUBB3WMkkEzLWLWCsZ5IZ/GndIqIL0l8SeJLEl+S+JLONzKSFO7HPIpkFXH/PiBIUSVfsC4eDH9KVwIAAAAASUVORK5CYII=" alt="drawio" width="40" height="40"/> </a>
+  <a href="https://www.draw.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Diagrams.net_Logo.svg/512px-Diagrams.net_Logo.svg.png" alt="drawio" width="40" height="40"/> </a>
 </p>
 
 <h3 align="center">Project Management Tools:</h3>
 <p align="center">
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/> </a>
-  <a href="https://monday.com/" target="_blank" rel="noreferrer"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAqFBMVEX/////zAD7J10AynL/ygD7G1f7AE8AyGoAx2f///39nrL7I1v/yAD/3nT//f78T3f/0CD7QG/8dZP+4uj/8L7/1kL/1DH/66n/6u/7LGL9rbj/3Wj/10n//fX+1t//55f9lqz/+eT/7bL8YIP+v83/2Vn/99v9p7n/5I3/89Dg9+uf6MOv683t+/X/4YRq26JJ1ZD/8/Iw0oj8h6B43KaJ4LH8fprU9eSQFBQpAAABkElEQVRIie2U23aCMBBFCQkBTS1irYIIXtBaFatVq///Z0245EZBH/vAeZtZa6/ZhEkMo02bNv84na5HzMGbaAzfARiNH3J+gAkhFp6UjfAF0KBp9AD0LJOF4DivZxlHyV4zN8dmHmuQ1QsEiqBFExdbBWcS85U1poCDyybQ1cAxeg7slqJUNWGiQKRJNbYIB/GKNtZiIFjXcx0hmg+URAH4qAc3QpSYdAMiWXRWz/my6IaJSuCoUw/Koi6tl5Ioek7UtHxN9PNJ0S5thNLAfj1nJEKUeLroljZ2+316qHIrSxKl+x31Je7LMA5HmwbuK6KBJDqnjZ4sSm/UyYYsjk7eJFGXLulWE00dmMdWbb+xKir/wuwinmEJqiNX0nJfWAOooobNwasCxhwk3qsKoiGrIQd/VFX+icWLEXIuzOpjOdJJ1cO5FCPxLa/F4eRv1L04HPus72zC3jaCk7LObxTilyl12Ewb7gw9EzcI3Imot+s+GPXEm3g/QXi+/rE6dAl8tY60t+JQndamTZtqfgHu1xhTi8gBagAAAABJRU5ErkJggg==" alt="monday.com" width="40" height="40"/> </a>
+  <a href="https://monday.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNXXpkSJHzoiwup_zNh09cWj-Zq_boVw5tfg&s" alt="monday.com" width="40" height="40"/> </a>
 </p>
 
 ---
