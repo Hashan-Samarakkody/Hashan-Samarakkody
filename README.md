@@ -40,7 +40,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=Hashan-Samarakkody&show_icons=true&theme=tokyonight&custom_title=Hashan%20Samarakkody's%20GitHub%20Stats" />
     </td>
     <td>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=66CCFF&width=600&lines=👋+Hey+there!+Welcome+to+my+GitHub+profile;🚀+Exploring+AI,+ML+,+Web+Deve+projects!;🌍+I+love+combining+tech+and+creativity!;📚+Always+learning+and+always+growing!;💬+Let%27s+connect,+collaborate,+and+learn!+🤝" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=66CCFF&width=600&lines=👋+Hey+there!+Welcome+to+my+GitHub+profile;🚀+Exploring+AI,+ML+,+and+Web+Development+projects!;🌍+I+love+combining+tech+and+creativity!;📚+Always+learning+and+always+growing!;💬+Let%27s+connect,+collaborate,+and+learn!+🤝" />
     </td>
   </tr>
   <tr>
