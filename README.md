@@ -39,9 +39,9 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=Hashan-Samarakkody&show_icons=true&theme=tokyonight&custom_title=Hashan%20Samarakkody's%20GitHub%20Stats" />
     </td>
-    <td>
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Machine+Learning+%7C+AI+%7C+Web+Dev;Let's+build+something+awesome!&center=false&width=350&height=50&color=66CCFF" />
-    </td>
+   <td>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hey+there!+Welcome+to+my+GitHub+profile.;🚀+Exploring+the+world+of+AI,+Machine+Learning,+and+Web+Development.;💡+Always+learning,+always+building,+always+improving!;🌱+Currently+diving+into+React,+Node.js,+and+Data+Science.;🤝+Let%27s+collaborate+and+create+something+amazing+together!&center=false&width=500&height=60&color=66CCFF&vCenter=true&pause=1000" />
+</td>
   </tr>
   <tr>
     <td>
@@ -95,4 +95,4 @@
 
 Credit: [Hashan-Samarakkody](https://github.com/Hashan-Samarakkody)
 
-Last Edited on: 15/09/2024
+Last Edited on: 21/06/2025
