@@ -34,10 +34,24 @@
   <img src="https://komarev.com/ghpvc/?username=Hashan-Samarakkody&label=Profile%20views&color=0e75b6&style=flat" alt="Hashan-Samarakkody" />
 </p>
 
-| ![Hashan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hashan-Samarakkody&show_icons=true&theme=tokyonight) | 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub!;Exploring+AI+%7C+Data+Science+%7C+ML;Let%27s+build+something+awesome!&center=false&width=380&height=50&color=66CCFF&vCenter=true)
-|
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hashan-Samarakkody&theme=tokyonight)              | ![GitHub Stars](https://github-readme-stats.vercel.app/api?username=Hashan-Samarakkody&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Hashan-Samarakkody&show_icons=true&theme=tokyonight&custom_title=Hashan%20Samarakkody's%20GitHub%20Stats" />
+    </td>
+    <td>
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Machine+Learning+%7C+AI+%7C+Web+Dev;Let's+build+something+awesome!&center=false&width=350&height=50&color=66CCFF" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hashan-Samarakkody&layout=compact&theme=tokyonight&langs_count=6" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Hashan-Samarakkody&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
 
 
 ---
