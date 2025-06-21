@@ -39,9 +39,9 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=Hashan-Samarakkody&show_icons=true&theme=tokyonight&custom_title=Hashan%20Samarakkody's%20GitHub%20Stats" />
     </td>
-   <td>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hey+there!+Welcome+to+my+GitHub+profile.;🚀+Exploring+the+world+of+AI,+Machine+Learning,+and+Web+Development.;💡+Always+learning,+always+building,+always+improving!;🌱+Currently+diving+into+React,+Node.js,+and+Data+Science.;🤝+Let%27s+collaborate+and+create+something+amazing+together!&center=false&width=500&height=60&color=66CCFF&vCenter=true&pause=1000" />
-</td>
+    <td>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=66CCFF&width=600&lines=👋+Hey+there!+Welcome+to+my+GitHub+profile!;🚀+Exploring+AI,+Machine+Learning,+and+cool+Web+Development+projects.;🎯+Focused+on+building+intelligent,+user-friendly+apps+and+tools.;🌍+I+love+combining+tech,+creativity,+and+data+to+solve+real-world+problems.;📚+Always+learning,+always+growing,+always+coding.;💬+Let%27s+connect,+collaborate,+and+create+something+amazing+together!+🤝" />
+    </td>
   </tr>
   <tr>
     <td>
