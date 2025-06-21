@@ -34,7 +34,7 @@
   <img src="https://komarev.com/ghpvc/?username=Hashan-Samarakkody&label=Profile%20views&color=0e75b6&style=flat" alt="Hashan-Samarakkody" />
 </p>
 
-| ![Hashan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hashan-Samarakkody&show_icons=true&theme=tokyonight) |  | ![Hashan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hashan-Samarakkody&show_icons=true&theme=tokyonight) | **Software Engineering Undergraduate** <br> 💻 Passionate about backend & AI <br> 🌱 Currently learning: Node.js, Next.js |                                                                                                 |
+| ![Hashan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hashan-Samarakkody&show_icons=true&theme=tokyonight) | **Software Engineering Undergraduate** <br> 💻 Passionate about backend & AI <br> 🌱 Currently learning: Node.js, Next.js |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hashan-Samarakkody&theme=tokyonight)              | ![GitHub Stars](https://github-readme-stats.vercel.app/api?username=Hashan-Samarakkody&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
