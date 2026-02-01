@@ -34,25 +34,6 @@
   <img src="https://komarev.com/ghpvc/?username=Hashan-Samarakkody&label=Profile%20views&color=0e75b6&style=flat" alt="Hashan-Samarakkody" />
 </p>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Hashan-Samarakkody&show_icons=true&theme=tokyonight&custom_title=Hashan%20Samarakkody's%20GitHub%20Stats" />
-    </td>
-    <td>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=66CCFF&width=600&lines=👋+Hey+there!+Welcome+to+my+GitHub+profile;🚀+Exploring+AI,ML,+and+Web+Development+projects!;🌍+I+love+combining+tech+and+creativity!;📚+Always+learning+and+always+growing!;💬+Let%27s+connect,+collaborate,+and+learn!+🤝" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hashan-Samarakkody&layout=compact&theme=tokyonight&langs_count=6" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Hashan-Samarakkody&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight" />
-    </td>
-  </tr>
-</table>
-
 
 ---
 
